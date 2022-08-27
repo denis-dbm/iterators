@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterators", "Iterators\Iterators.csproj", "{D4561236-72E6-4495-99CB-FA44FB24247C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterators.Tests", "Iterators.Tests\Iterators.Tests.csproj", "{12140421-A998-4DCC-AF7A-9471449A4E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4561236-72E6-4495-99CB-FA44FB24247C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4561236-72E6-4495-99CB-FA44FB24247C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4561236-72E6-4495-99CB-FA44FB24247C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4561236-72E6-4495-99CB-FA44FB24247C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12140421-A998-4DCC-AF7A-9471449A4E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12140421-A998-4DCC-AF7A-9471449A4E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12140421-A998-4DCC-AF7A-9471449A4E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12140421-A998-4DCC-AF7A-9471449A4E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
